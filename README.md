@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou Dalmir souza</h1>
-<h3 align="center">Estudante de Linguagem Python!</h3>
+<h3 align="center">Estudante de Linguagem Python, Mysql!</h3>
 
 - 🔭 Eu estudo Linguagem Python **Projeto Redução custo logístico**
 
